@@ -1,0 +1,60 @@
+h1{
+  color: blue;
+  font-size: 2em;
+}
+
+strong {
+  text-transform: uppercase;
+}
+
+blockquote {
+    color:white;
+    background-color:blue;
+}
+
+table {
+ border-collapse: collapse;
+}
+
+table, th, td{
+  border: 1px solid black;
+  text-align: center;
+}
+ th{
+   color: blue;
+ }
+
+ul {
+  list-style-type: square;
+  color: blue;
+}
+
+ul {
+  background-size: contain;
+  background-image: url("https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg");
+  background-size: 180px 180px;
+  background-repeat: no-repeat;
+}
+
+#checkbox-grid{
+
+}
+
+
+#scoreBoard {
+
+}
+
+.hyperLink {
+}
+
+a:link {
+  color:blue;
+  background-color:transparent;
+  text-decoration:none;
+}
+a:hover {
+  color:white;
+  background-color:blue;
+  text-decoration:none;
+}
